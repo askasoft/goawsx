@@ -45,7 +45,6 @@ func TestAwsCloudWatchLogWriter(t *testing.T) {
 	lg.Info("This is a AwsCloudWatchLogWriter info log")
 	lg.Warn("This is a AwsCloudWatchLogWriter warn log")
 	lg.Error("This is a AwsCloudWatchLogWriter error log")
-	lg.Fatal("This is a AwsCloudWatchLogWriter fatal log")
 
 	lg.Close()
 }
