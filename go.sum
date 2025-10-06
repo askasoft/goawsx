@@ -1,5 +1,5 @@
-github.com/askasoft/pango v1.2.4 h1:rfxymY5K7DV8wZnUu7WlZgiNvvT3QN8mnBTRCp1tA7U=
-github.com/askasoft/pango v1.2.4/go.mod h1:7b7KrvlzFp9tr205sdCCN08mWFhQJscNfoN3Hq4o7zQ=
+github.com/askasoft/pango v1.2.6 h1:iiTbE6ZDxEiuVOnzwVYLyubxMUZsY5Joq5c9EwEu4iM=
+github.com/askasoft/pango v1.2.6/go.mod h1:rFZMtRgfC7/dSNTULFvR4nGBxjukK08GZXlkdVs0y5k=
 github.com/aws/aws-sdk-go-v2 v1.39.0 h1:xm5WV/2L4emMRmMjHFykqiA4M/ra0DJVSWUkDyBjbg4=
 github.com/aws/aws-sdk-go-v2 v1.39.0/go.mod h1:sDioUELIUO9Znk23YVmIk86/9DOpkbyyVb1i/gUNFXY=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1 h1:i8p8P4diljCr60PpJp6qZXNlgX4m2yQFpYk+9ZT+J4E=
